@@ -14,7 +14,7 @@ In this project we were tasked to use the ternary operator to decide between two
 6. Verify that the changes have been successfully pushed to a GitHub repository.
 
 ## Debug Console 
-[debug console](image.png)
+![debug console](image.png)
 
 ## Author
 Dimpho Molepo
